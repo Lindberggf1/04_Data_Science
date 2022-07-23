@@ -1,0 +1,53 @@
+ 
+ 
+ ------------------- ambiente virtual -----------------
+ 
+ 
+ ------------------- Criar ambiente virtual -----------------
+ 
+ 1. abrir cmd como administrador
+ 
+ 2. instalar biblioteca ambiente virtual: pip install virtualenv
+  
+ 
+ ------------------- Configurar ambiente virtual -----------------
+ 
+ 1. abrir o cmd na pasta que ficar o estudos.
+ 
+ 2. Digitar virtualenv nomeParaAmbienteVirtual ---> vou usar venv
+ 
+ 3. agora vamos ativar indo em: cd venv --> venv é o nome que dei.
+ 
+ 4. cd Scripts
+ 
+ 5. activate
+ 
+ 6. cd ..
+ 
+ 7. cd ..
+ 
+ 8. Instalar bibliotecas python que usaremos neste ambeinte:
+   -- pip install numpy pandas seaborn matplotlib 
+	
+ 9. instalar a biblioteca do jupyter: pip install jupyter
+ 
+ 10. Abrir o jupyter: jupyter-notebook
+ 
+ 
+ ------------------- Abri ambiente virtual -----------------
+ 
+ 1. abrir o cmd na pasta que ficar o estudos.
+ 
+ 2. Digitar virtualenv nomeParaAmbienteVirtual ---> vou usar venv
+ 
+ 3. agora vamos ativar indo em: cd venv --> venv é o nome que dei.
+ 
+ 4. cd Scripts
+ 
+ 5. activate
+ 
+ 6. cd ..
+ 
+ 7. cd ..
+ 
+ 8. Abrir o jupyter: jupyter-notebook
